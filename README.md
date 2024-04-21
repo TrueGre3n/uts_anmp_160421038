@@ -1,1 +1,5 @@
-Exercise Week 6 ada di "Works"dan di folder W4App/app/src/main dan file json ada di folder res
+Nama:Raymon Wijana Oey
+NRP:160421038
+
+Projek UTS  ada di "Works"dan di folder UTS dan file sql dan php ada di values
+mohon maaaf pak saya tidak tau kenapa setiap saya melakukan push ke pada github, file-file sebelumnya ayng pernah saya kerjakan juga ikut terpush
